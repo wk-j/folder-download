@@ -6,7 +6,7 @@
         <PackAsTool>true</PackAsTool>
         <ToolCommandName>wk-folder-download</ToolCommandName>
         <PackageId>wk.FolderDownload</PackageId>
-        <Version>0.1.0</Version>
+        <Version>0.1.1</Version>
     </PropertyGroup>
 
     <ItemGroup>
